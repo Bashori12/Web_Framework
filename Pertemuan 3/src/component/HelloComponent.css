@@ -1,0 +1,45 @@
+.header{
+    text-align: center;
+    font-style: italic;
+    padding-top: 1px;
+}
+
+.text{
+    text-align: center;
+    font-style: italic;
+    padding-top: 50px;
+    margin: auto;
+    border-style: solid;
+    height: 450px;
+    width: 50%;
+}
+
+.text1{
+    text-align: center;
+}
+
+.button{
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.cancel{
+    background-color: red;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
