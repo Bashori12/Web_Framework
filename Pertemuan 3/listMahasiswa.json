@@ -1,0 +1,17 @@
+{
+  "mahasiswa": [
+    {
+      "id": 1,
+      "nama": "Bashori Try S",
+      "nim": "1741720096",
+      "alamat": "Malang",
+      "hp": "0123456789",
+      "angkatan": "2017",
+      "status": "aktif"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

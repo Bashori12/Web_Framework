@@ -7,11 +7,8 @@ import * as serviceWorker from './serviceWorker';
 
 // import HelloComponent from './component/HelloComponent';
 // import StateFullComponent from './container/StateFullComponent';
-// import BlogPost from "./container/BlogPost/BlogPost";
 import BlogPostMahasiswa from "./container/BlogPost/BlogPostMahasiswa";
 
-// ReactDOM.render(<BlogPost />, document.getElementById('content'));
-// ReactDOM.render(<BlogPost />, document.getElementById('content'));
 ReactDOM.render(<BlogPostMahasiswa />, document.getElementById('content'));
 // ReactDOM.render(<StateFullComponent />, document.getElementById('root'));
 
